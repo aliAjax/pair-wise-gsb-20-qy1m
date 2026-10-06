@@ -9,3 +9,6 @@ yarn-error.log*
 pnpm-debug.log*
 .idea
 .vscode
+
+# 规则校验脚本的临时打包产物
+scripts/verify-rules.cjs
